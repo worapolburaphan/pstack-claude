@@ -1,0 +1,14 @@
+{
+  "name": "pstack-claude",
+  "description": "A Claude Code-native port of pstack.",
+  "owner": {
+    "name": "Worapol Buraphan"
+  },
+  "plugins": [
+    {
+      "name": "pstack-claude",
+      "source": "./",
+      "description": "Rigorous Claude Code engineering workflows: evidence-first investigation, design, implementation, review, and shipping."
+    }
+  ]
+}
